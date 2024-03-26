@@ -22,7 +22,7 @@ Projet à réaliser en individuel et en 2 à 3 semaines (date de restitution à 
 Soutenance individuelle :
 - 10 minutes pour présenter le travail réalisé et faire un démonstration de l'application
 - 5 minutes de Q/A
-- 
+
 ## Livrables
 
 - Une base de données alimentées
